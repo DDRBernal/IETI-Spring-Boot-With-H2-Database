@@ -1,18 +1,17 @@
-<<<<<<< HEAD
+
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
-## Codelab 🧪 Implementing a REST API Service
+## Codelab 🧪 IETI-Spring-Boot-With-H2-Database
 
 ![image](https://user-images.githubusercontent.com/46855679/221076705-229ac920-e917-4004-a4f3-0c7e16a62393.png)
+
+In this tutorial, we'll explore using H2 with Spring Boot. Just like other databases, there's full intrinsic support for it in the Spring Boot ecosystem.
 
 **Programming Language**:- Java.
 
 **Framework:** Spring Boot.
 
-**Database:** MongoDB.
-
 **Learning Objectives**
-
 
 ## Detail Orientation 🤹🏽
 
@@ -21,15 +20,7 @@
 
 * Microservices.
 * REST API.
-* MongoDB.
 * Java.
 * Spring Boot.
 
 ## Codelab 🧪
-
-
-
-
-=======
-# IETI-Spring-Boot-With-H2-Database
->>>>>>> d0673e0bcd65995f996c8836c1d7ddb9b37d6a82
