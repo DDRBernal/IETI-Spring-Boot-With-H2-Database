@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
 
 ## Codelab 🧪 Implementing a REST API Service
@@ -28,10 +28,3 @@
 * Spring Boot.
 
 ## Codelab 🧪
-
-
-
-
-=======
-# IETI-Spring-Boot-With-H2-Database
->>>>>>> d0673e0bcd65995f996c8836c1d7ddb9b37d6a82
